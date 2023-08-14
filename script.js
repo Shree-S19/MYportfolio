@@ -9,7 +9,7 @@ window.onscroll = function() {
     scrollBtn.style.display = "block";
   }else{
     nav.classList.remove("sticky");
-    scrollBtn.style.display = "none";
+    scrollBtn.style.display = "none";  
   }
 
 }
